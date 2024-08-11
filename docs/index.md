@@ -10,7 +10,7 @@ If you have any questions or suggestions about any of the content in this handbo
 
 - Syllabuses
 	- [Music Technology 2024-25](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/Ee3O-2pzWxVNh8iwypR8dNsBVFLgkLFOyHOYh_zsp0JKmA?e=bgBFjw)
-	- [Advanced Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/ET16o2wo2tdKnRSGL9MD6NQBmQueLGOK0sjrkArXFLDwUg?e=2fPK77)
+	- [Advanced Music Technology 2024-25](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/ET16o2wo2tdKnRSGL9MD6NQBmQueLGOK0sjrkArXFLDwUg?e=2fPK77)
 - [Presentations](https://colganmusictech.github.io/presentations/)
 - [Colgan Music Tech on GitHub](https://github.com/colganmusictech)
 
