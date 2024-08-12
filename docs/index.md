@@ -14,11 +14,10 @@ If you have any questions or suggestions about any of the content in this handbo
 - [Presentations](https://colganmusictech.github.io/presentations/)
 - [Colgan Music Tech on GitHub](https://github.com/colganmusictech)
 
-## About Me, Ms. Levy
+## About Me, Mrs. Levy
 
-- I'm excited to be the new Music Tech instructor, building on the foundation that Mr. Mills started.
 - I have a wide variety of industry and teaching experience that I can draw on to help the students on their music journey.
-- _This is my first time teaching in any public school system._ 😁
+- This is my second year teaching at Colgan.
 - You can learn more about my story from the [presentation I gave for the first day of school](https://colganmusictech.github.io/presentations/first-day/speaker-notes.html).
 
 ## My Vision for This Program
