@@ -30,7 +30,7 @@
 
 Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 
-- Sep 18
+- Sep 04
 - Oct 16
 - Nov 06
 - Dec 04
