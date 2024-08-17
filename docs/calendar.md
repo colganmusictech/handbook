@@ -7,7 +7,7 @@
 - Aug 19: First Day of School!
 - Sep 05: Back-To-School Night
 - Sep 09, 10, 11: House Band Auditions
-- Sep 26, 27: Auditorium Production Tech Training - Presented by Mr. Collier and Ms. Levy
+- Sep 25, 26: Auditorium Production Tech Training - Presented by Mr. Collier and Ms. Levy
 - Oct 12: CFPA Music Tech Staycation & Auditorium "Fall" Show - Hosted by CFPA Music Tech Leadership Team
 - Oct 18: Trunk or Treat (House Band show at Amphitheater)
 - Oct 21: CFPA Info Night (for rising freshman)
