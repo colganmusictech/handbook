@@ -4,11 +4,11 @@ These are the requirements that must be completed on an annual basis to particip
 
 - Complete five required courses:
 
-   1. Advanced Music Technology
-   2. Advanced Music Technology
-   3. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
-   4. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
-   5. Ensemble (Band, Chorus, Orchestra, Piano)
+   - 1. Advanced Music Technology
+   - 2. Advanced Music Technology
+   - 3. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
+   - 4. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
+   - 5. Ensemble (Band, Chorus, Orchestra, Piano)
    
 - Earn final grade of at least B in all music classes
 - Attend and log 4 masterclasses
