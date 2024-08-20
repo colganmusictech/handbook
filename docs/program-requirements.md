@@ -20,12 +20,7 @@ These are the requirements that must be completed on an annual basis to particip
 - Participate in FinFest shows as assigned
 - Attend all monthly Studio Classes
 - Participate in “other activities required (OARs)”
-- Perform End-of-Year Project (grades 9, 10, 11) or Senior Exit Project (12)
-
-End-of-Year (E-O-Y) Project Notes:
-- Each year, students will meet with their Music Technology instructor to decide what the E-O-Y Project will be. It will usually consist of the release of original music either as a production or live performance. Project should reflect the student’s absolute best abilities. The instructor may count another extensive activity as a project (e.g. composing for orchestra, live performance, etc.).
-
-- Senior Exit Projects will be discussed with the instructor throughout the senior year. These will usually be an extended performance or other musical collaboration.
+- Perform End-of-Year Project (grades 9, 10, 11) or Senior Exit Project (12) (see below for details)
 
 **Failure to complete these requirements will result in removal from
 CFPA Music Technology.**
