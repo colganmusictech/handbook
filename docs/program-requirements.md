@@ -2,7 +2,15 @@
 
 These are the requirements that must be completed on an annual basis to participate in the CFPA Music Technology program. See additional details on some these requirements below.
 
-- Enroll in at least one music class
+- Complete five required courses (see below for details)
+- Required Courses:
+
+1. Advanced Music Technology
+2. Advanced Music Technology
+3. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
+4. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
+5. Ensemble (Band, Chorus, Orchestra, Piano)
+   
 - Earn final grade of at least B in all music classes
 - Attend and log 4 masterclasses
     - At least 2 Music Technology masterclasses
@@ -13,6 +21,10 @@ These are the requirements that must be completed on an annual basis to particip
 - Attend all monthly Studio Classes
 - Participate in “other activities required (OARs)”
 - Perform End-of-Year Project (grades 9, 10, 11) or Senior Exit Project (12)
+
+o Each year, students will meet with their Music Technology instructor to decide what the jury will be. It will usually consist of the release of original music either as a production or live performance. Juries should reflect the student’s absolute best abilities. The instructor may count another extensive activity as a jury (e.g. composing for orchestra, live performance, etc.).
+
+o Senior Exit Projects will be discussed with the instructor throughout the senior year. These will usually be an extended performance or other musical collaboration.
 
 **Failure to complete these requirements will result in removal from
 CFPA Music Technology.**
