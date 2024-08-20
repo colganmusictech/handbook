@@ -2,8 +2,7 @@
 
 These are the requirements that must be completed on an annual basis to participate in the CFPA Music Technology program. See additional details on some these requirements below.
 
-- Complete five required courses (see below for details)
-- Required Courses:
+- Complete five required courses:
 
    1. Advanced Music Technology
    2. Advanced Music Technology
