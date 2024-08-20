@@ -5,11 +5,11 @@ These are the requirements that must be completed on an annual basis to particip
 - Complete five required courses (see below for details)
 - Required Courses:
 
-1. Advanced Music Technology
-2. Advanced Music Technology
-3. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
-4. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
-5. Ensemble (Band, Chorus, Orchestra, Piano)
+   1. Advanced Music Technology
+   2. Advanced Music Technology
+   3. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
+   4. Music Elective (Music Technology, Band, Chorus, Orchestra, Piano, AP Music Theory)
+   5. Ensemble (Band, Chorus, Orchestra, Piano)
    
 - Earn final grade of at least B in all music classes
 - Attend and log 4 masterclasses
@@ -22,9 +22,10 @@ These are the requirements that must be completed on an annual basis to particip
 - Participate in “other activities required (OARs)”
 - Perform End-of-Year Project (grades 9, 10, 11) or Senior Exit Project (12)
 
-o Each year, students will meet with their Music Technology instructor to decide what the jury will be. It will usually consist of the release of original music either as a production or live performance. Juries should reflect the student’s absolute best abilities. The instructor may count another extensive activity as a jury (e.g. composing for orchestra, live performance, etc.).
+End-of-Year (E-O-Y) Project Notes:
+- Each year, students will meet with their Music Technology instructor to decide what the E-O-Y Project will be. It will usually consist of the release of original music either as a production or live performance. Project should reflect the student’s absolute best abilities. The instructor may count another extensive activity as a project (e.g. composing for orchestra, live performance, etc.).
 
-o Senior Exit Projects will be discussed with the instructor throughout the senior year. These will usually be an extended performance or other musical collaboration.
+- Senior Exit Projects will be discussed with the instructor throughout the senior year. These will usually be an extended performance or other musical collaboration.
 
 **Failure to complete these requirements will result in removal from
 CFPA Music Technology.**
