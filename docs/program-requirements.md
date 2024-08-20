@@ -19,7 +19,7 @@ These are the requirements that must be completed on an annual basis to particip
 - Participate in FinFest shows as assigned
 - Attend all monthly Studio Classes
 - Participate in “other activities required (OARs)”
-- Perform End-of-Year Project (grades 9, 10, 11) or Senior Exit Project (12) (see below for details)
+- Complete End-of-Year Project (grades 9, 10, 11) or Senior Exit Project (12) (see below for details)
 
 **Failure to complete these requirements will result in removal from
 CFPA Music Technology.**
