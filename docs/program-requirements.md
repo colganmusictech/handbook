@@ -1,6 +1,6 @@
 # Program Requirements
 
-These are the requirements that must be completed on an annual basis to participate in the CFPA Music Technology program. See additional details on some these requirements below.
+These are the requirements that must be completed on an annual basis to participate in the CFPA Music Technology program. See additional details on some of these requirements below.
 
 - Complete five required courses:
 
