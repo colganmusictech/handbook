@@ -44,6 +44,10 @@ Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 
 Masterclasses are from 2:30 to 4:00 on the following days:
 
+- Sep 19: Trilogy Sound Studio - Topic: Music Production
+- Nov 21: Trilogy Sound Studio - Topic: Live Engineering
+- Feb 04: Trilogy Sound Studio - Topic: Music Business
+
 
 ## Additional Shows
 
