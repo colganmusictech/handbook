@@ -15,7 +15,7 @@
 - Dec 12: CFPA Music Tech FinStage "Winter" Show - Hosted by:
 - Dec 18–19: Healeypalooza Tech (setup)
 - Dec 20: Healeypalooza Show at Auditorium (1623 House Band performing and Music Tech Crew live sound engineering)
-- Jan 11 & 18: Music Tech date tbd [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
+- Jan 11: CFPA Music Tech audition [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 25: CFPA Audition Snow Date
 - Feb 12, 13, 14, 18, 19: CFPA Music Tech FinStage "Rookie" Show Tech Week
 - Feb 20: CFPA Music Tech FinStage "Rookie" Show - Hosted by:
