@@ -48,7 +48,7 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 - Nov 21: Trilogy Sound Studio - Topic: Live Engineering
 - Feb 04: Trilogy Sound Studio - Topic: Music Business
 
-https://trilogysoundstudio.com/ Trilogy Sound Studio will facilitate a 90-minute live presentation and curate a discussion about the music production process, provide music industry insights and moderate a student Q&A session. The discussion will draw from real experiences and touch up on careers in the industry, namely in music production, audio engineering, music business, and what it takes to get into those fields. The presentation will include the following representatives from Trilogy: Sarah Benrazek (Owner/CEO), Erin Anthony (Owner/CTO/Producer & Mastering Engineer), Matthew Faunda (Instructor/Arranger/Composer), Benji Cooper (Mixing/Mastering Engineer)
+https://trilogysoundstudio.com/ Trilogy Sound Studio will facilitate a series of 3, 90-minute live presentation and curate a discussion about the music production process, provide music industry insights and moderate a student Q&A session. The discussion will draw from real experiences and touch up on careers in the industry, namely in music production, audio engineering, music business, and what it takes to get into those fields. The presentation will include the following representatives from Trilogy: Sarah Benrazek (Owner/CEO), Erin Anthony (Owner/CTO/Producer & Mastering Engineer), Matthew Faunda (Instructor/Arranger/Composer), Benji Cooper (Mixing/Mastering Engineer)
 
 
 ## Additional Shows
