@@ -58,7 +58,7 @@ In The New Musician: The Art of Entrepreneurship in Today’s Music Business, Mr
 By learning from others’ experiences in this book, musicians will discover a range of creative solutions to the problems frequently encountered and will enhance their entrepreneurial skills. These success stories and cautionary tales will help illuminate a road map to success.
 Contemporary Music Center: https://www.contemporarymusiccenter.com/
 
-The New Musician on Amazon: https://www.amazon.com/New-Musician-Music-Pro-Guides/dp/1538194872
+The New Musician: https://www.amazon.com/New-Musician-Music-Pro-Guides/dp/1538194872
 
 
 ## Additional Shows
