@@ -56,6 +56,8 @@ Masterclasses are from 2:30 to 4:00 on the following days:
   Mr. Pittman recently published his book "The New Musician". In today’s rapidly changing music landscape, entrepreneurship is an art that is just as vital as creativity—one that all musicians must master for a successful and sustainable career.
 In The New Musician: The Art of Entrepreneurship in Today’s Music Business, Mr. Pittman provides insights from world-class artists, music business leaders, educators, and professionals who share invaluable reflections on the successes and challenges of their careers, imparting advice to both aspiring and working musicians. Included are vital conversations about topics like leadership and business with an impressive cast of people including record executive Mike Curb, nine-time GRAMMY award-winning record producer Dave Cobb, and singer-songwriter and multi-instrumentalist Sierra Hull.
 By learning from others’ experiences in this book, musicians will discover a range of creative solutions to the problems frequently encountered and will enhance their entrepreneurial skills. These success stories and cautionary tales will help illuminate a road map to success.
+Contemporary Music Center: https://www.contemporarymusiccenter.com/
+The New Musician on Amazon: https://www.amazon.com/New-Musician-Music-Pro-Guides/dp/1538194872
 
 
 ## Additional Shows
