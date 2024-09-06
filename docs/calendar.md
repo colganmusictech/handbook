@@ -50,7 +50,12 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 
   [Trilogy Sound Studio](https://trilogysoundstudio.com/) will facilitate a series of 3 of 90-minute live presentation on the specific topic mentioned above. They will curate a discussion about the music production process, provide music industry insights and moderate a student Q&A session. The discussion will draw from real experiences and touch up on careers in the industry, namely in music production, audio engineering, music business, and what it takes to get into those fields. The presentation will include the following representatives from Trilogy: Sarah Benrazek (Owner/CEO), Erin Anthony (Owner/CTO/Producer & Mastering Engineer), Matthew Faunda (Instructor/Arranger/Composer), Benji Cooper (Mixing/Mastering Engineer)
 
-- Oct 22: Menzie Pittman - ["The New Musician"](https://www.amazon.com/New-Musician-Music-Pro-Guides/dp/1538194872) author. Topic: The Art of Entrepreneurship in Today’s Music Business
+- Oct 24: Luis Villalobos from the Villalobos Brothers
+  Luis Villalobos is a GRAMMY-winner composer, violinist, multi-instrumentalist and producer. His work has been premiered by the San Francisco and the Sun Valley Symphonies, and his violin solos can be heard in Bruce Springsteen's "Western Stars" (2019). He held two Master’s Degrees in classical and contemporary music production from the University of Freiburg in Germany and Berklee College of Music.
+
+  Luis will share his music education and career, give feedback to some students' work, and conduct a Q&A session.
+  
+- Oct 29: Menzie Pittman - ["The New Musician"](https://www.amazon.com/New-Musician-Music-Pro-Guides/dp/1538194872) author. Topic: The Art of Entrepreneurship in Today’s Music Business
   
   The founder of [Contemporary Music Center](https://www.contemporarymusiccenter.com/) in Haymarket Virginia, Menzie Pittman has worked in the music industry as a drummer, music educator, clinician, music business owner, entrepreneur, writer, speaker, board member, and music advocate for more than 35 years. He won the National Association of Music Merchants (NAMM) Dealer of the Year award in 2016 and also served on the NAMM board of Directors from 2012 to 2015.  
   Mr. Pittman recently published his book "The New Musician". In today’s rapidly changing music landscape, entrepreneurship is an art that is just as vital as creativity—one that all musicians must master for a successful and sustainable career.
