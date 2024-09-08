@@ -19,6 +19,7 @@
 - Jan 25: CFPA Audition Snow Date
 - Feb 12, 13, 14, 18, 19: CFPA Music Tech FinStage "Rookie" Show Tech Week
 - Feb 20: CFPA Music Tech FinStage "Rookie" Show - Hosted by:
+- Apr 26: CFPA Music Tech Stayfincation - Party @1623, Commons B and Amphitheater (no show to follow)
 - May 2, 5, 6, 7, 8: CFPA Music Tech Black Box setup and tech week for FinFest
 - May 09: FinFest 2K24 Part 1
 - May 10: FinFest 2K24 Part 2
