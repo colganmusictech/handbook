@@ -16,7 +16,7 @@ The course will be centered around projects that will give students the opportun
 - Each class will produce a live show together, probably around the end of the second marking period.
     - Program students have additional performance requirements; this live show is a separate class-based project that will involve all students in each class.
 
-## _Tentative_ Project Sequence
+## Sample Projects
 
 1. **12-Bar-Blues**: compose music in any style using the 12-bar-blues chord progression/structure.
 1. **My Music Story Podcast**: a 3–5 minute recording of a narrative of your journey with supporting music and other audio.
