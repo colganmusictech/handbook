@@ -67,11 +67,15 @@ By learning from others’ experiences in this book, musicians will discover a r
 
 ## Additional Shows
 
+- Sep 09: Past 9 - Lunch show @ Amphitheater
+
 - ["Arts Alive"](https://www.pwcva.gov/events/arts-alive-2024) @ Hylton Performing Arts Center 
 Sat, Sep 14: 12 - 5 pm
 
 3 CFPA Music Tech students, Desmond Van Echo (bass), Victor Collins (keys), and Anton Kuznesov (drums) will perform in the Edutainment Production of [Open Space Arts PWC](https://www.openspaceartspwc.com/event-details-registration/harmony-of-horizons-the-future-of-art)
 
 Our friends are performing at 12 to 12:25 pm at the Merchant Hall
+
+- Sept 16: Ella Mead - Lunch show @ Amphitheater
 
 
