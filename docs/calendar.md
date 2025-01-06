@@ -35,7 +35,7 @@ Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 - Oct 16
 - Nov 06
 - Dec 04
-- Jan 08
+- Jan 15
 - Feb 05
 - Mar 12
 - Apr 09
