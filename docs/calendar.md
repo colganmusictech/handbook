@@ -65,6 +65,14 @@ By learning from others’ experiences in this book, musicians will discover a r
 - Dec 03: CFPA Creative Writing and Music Tech Collab - Songwriting - Check-In #1
 - Jan 16: CFPA Creative Writing and Music Tech Collab - Songwriting - Final #2
 
+- Jan 30: Marcus Manderson - Sync Licensing.
+  Marcus Manderson is a music composer and producer. He'll talk about sync licensing and music production (using Logic Pro).
+He will focus on providing students with an overview of the sync, composing, and trailer music industries. We'll explore how music can get placed on film, TV, and advertisements, and the essential resources that can help.
+He will also lead an interactive production workshop, where students will have the opportunity to dive into music production techniques using Logic Pro. 
+His credits: Disney, Starz, Fox, National Geographic, Smithsonian, Amazon Prime Video, Google Play, Tubi 
+Check out his website here:
+https://dafingaz.com/
+
 ## Additional Shows
 
 - Sep 09: Past 9 - Lunch show @ Amphitheater
