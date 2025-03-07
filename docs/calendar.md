@@ -18,12 +18,13 @@
 - Jan 11: CFPA Music Tech audition [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 25: CFPA Audition Snow Date
 - Feb 14, 18, 19: CFPA Music Tech FinStage "Rookie" Show Tech Week
-- Feb 20: CFPA Music Tech FinStage "Rookie" Show - Hosted by:
-- Apr 05: CFPA Music Tech Stayfincation - Party @1623, Commons B and Amphitheater (no show to follow)
+- Feb 20: CFPA Music Tech FinStage "Rookie" Show - Hosted by: Sarah Coleman
+- Apr 25: Desmond Van Echo - CFPA Music Tech Senior Exit Show @ FinStage
+- Apr 29: Anton Kuznesov - CFPA Music Tech Senior Exit Show @ Amphitheater
 - May 2, 5, 6, 7, 8: CFPA Music Tech Black Box setup and tech week for FinFest
 - May 09: FinFest 2K24 Part 1
 - May 10: FinFest 2K24 Part 2
-- May 12, 13: CFPA Music Tech Senior Exit Shows @ Black Box
+- May 13: Sarah Coleman - CFPA Music Tech Senior Exit Show @ Black Box
 - May 14: Black Box Strike (teardown)
 - June 3: CFPA Music Tech Potluck @ Commons B/Amphitheater
 
@@ -72,6 +73,8 @@ He will also lead an interactive production workshop, where students will have t
 His credits: Disney, Starz, Fox, National Geographic, Smithsonian, Amazon Prime Video, Google Play, Tubi 
 Check out his website here:
 https://dafingaz.com/
+
+- Apr 22: Chase Chapman - DJ Masterclass
 
 ## Additional Shows
 
