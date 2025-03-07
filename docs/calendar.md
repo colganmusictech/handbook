@@ -23,7 +23,7 @@
 - Apr 29: Anton Kuznesov - CFPA Music Tech Senior Exit Show @ Amphitheater
 - May 2, 5, 6, 7, 8: CFPA Music Tech Black Box setup and tech week for FinFest
 - May 09: FinFest 2K24 Part 1
-- May 10: FinFest 2K24 Part 2
+- May 10: FinFest 2K24 Part 2 - Senior Exit: Toni
 - May 13: Sarah Coleman - CFPA Music Tech Senior Exit Show @ Black Box
 - May 14: Black Box Strike (teardown)
 - June 3: CFPA Music Tech Potluck @ Commons B/Amphitheater
@@ -39,8 +39,8 @@ Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 - Jan 15
 - Feb 05
 - Mar 12
-- Apr 23
-- May 21
+- Apr 23 - Senior Exit: Luke and Kirill
+- May 21 - Senior Exit: Paul, Liam, and Gavin
 
 ## Masterclasses
 
