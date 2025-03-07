@@ -22,8 +22,8 @@
 - Apr 25: Desmond Van Echo - CFPA Music Tech Senior Exit Show @ FinStage
 - Apr 29: Anton Kuznesov - CFPA Music Tech Senior Exit Show @ Amphitheater
 - May 2, 5, 6, 7, 8: CFPA Music Tech Black Box setup and tech week for FinFest
-- May 09: FinFest 2K24 Part 1
-- May 10: FinFest 2K24 Part 2 - Senior Exit: Toni
+- May 09: FinFest 2K25 Part 1
+- May 10: FinFest 2K25 Part 2 - Senior Exit: Toni
 - May 13: Sarah Coleman - CFPA Music Tech Senior Exit Show @ Black Box
 - May 14: Black Box Strike (teardown)
 - June 3: CFPA Music Tech Potluck @ Commons B/Amphitheater
