@@ -19,8 +19,10 @@
 - Jan 25: CFPA Audition Snow Date
 - Feb 14, 18, 19: CFPA Music Tech FinStage "Rookie" Show Tech Week
 - Feb 20: CFPA Music Tech FinStage "Rookie" Show - Hosted by: Sarah Coleman
+- Apr 22: 1623 House Band performing at PWCS Award Show @ Hylton Performing Arts Center
 - Apr 25: Desmond Van Echo - CFPA Music Tech Senior Exit Show @ FinStage
 - Apr 29: Anton Kuznesov - CFPA Music Tech Senior Exit Show @ Amphitheater
+- May 2: Stayfincation hosted by Leadership Team - Ice cream social/pizza @ 1623 & Amphitheater
 - May 2, 5, 6, 7, 8: CFPA Music Tech Black Box setup and tech week for FinFest
 - May 09: FinFest 2K25 Part 1
 - May 10: FinFest 2K25 Part 2 - Senior Exit: Toni
@@ -74,7 +76,7 @@ His credits: Disney, Starz, Fox, National Geographic, Smithsonian, Amazon Prime 
 Check out his website here:
 https://dafingaz.com/
 
-- Apr 22: Chase Chapman - DJ Masterclass
+- Apr 30: Chase Chapman - DJ Masterclass
 
 ## Additional Shows
 
